@@ -1,0 +1,91 @@
+A11;1;0;Ultra\-schall\-modul HC-SR04;100
+A12;2;0;LCD-Modul 16x2 blauer Hintergrund, weiße Schrift HD44780;200
+A14;2;0;Lochrasterplatte;100
+A16;2;0;SainSmart 2,8 Zoll LCD;2000
+A18;1;0;Be\-schleu\-ni\-gungs\-sen\-sor MPU-6050;250
+A21;2;0;Schrittmotor + ULN2003 Driver-Board;200
+A23;1;0;5V DC-Motor;150
+A24;1;0;HC-06 Bluetooth-Modul;350
+A25;2;6;MIFARE RC522 RFID Reader mit Tag und Karte;400
+A27;1;0;Uhrwerk;100
+A28;1;0;Barometer BMP180;200
+A31;1;0;DS1307 Real-Time-Clock mit Lithium-Batterie;150
+A32;2;0;LCD-Modul 20x4 blauer Hintergrund, weiße Schrift HD44780;650
+A34;2;0;Batteriehalter 3x AAA;100
+A36;1;0;Nokia-5110-Display mit Adapterplatine;250
+A37;2;0;HC-SR501 IR-Be\-we\-gungs\-mel\-der;150
+A41;1;0;KEYES IR-Fernbedienung mit Empfangsmodul;200
+B11;3;0;Playstation-Eye-Kamera;1100
+B14;4;1;USB A männlich auf B männlich;100
+B18;1;1;USB A männlich auf A weiblich;250
+B21;7;1;USB-Hub, 4 Ports;500
+B28;1;0;USB-Fin\-ger\-ab\-druck\-sen\-sor;1300
+B31;8;1;USB A männlich auf micro männlich;100
+C11;2;2;Raspberry Pi 1. Generation Model B;2500
+C15;2;2;Raspberry Pi 2. Generation Model B;4000
+C17;2;2;MEMS Sensor Evaluation Board;1600
+C21;1;2;Raspberry Pi Kameramodul;2550
+C22;1;2;Raspberry Pi Kameramodul NoIR;2750
+C23;1;2;Raspberry Pi Kameramount;550
+C24;2;2;Raspberry Pi 1. Generation Model B Gehäuse;500
+C26;2;2;Gertduino;3100
+C28;1;2;Raspberry Pi Kühlkörper-Set;250
+C31;2;2;PiFace;3200
+C33;1;2;Flach\-band\-kabel für Raspberry Pi Kameramodul;550
+C34;1;2;4GB Class 6 SD-Karte;400
+C35;1;2;4GB Class 10 micro-SD-Karte;550
+C36;1;2;Adapter micro-SD auf SD;100
+C37;1;2;USB-Soundkarte;150
+C38;1;2;WLAN-Adapter EDIMAX EW-7811UN;900
+C46;3;2;16x2 LCD Pi Plate Kit;1500
+D11;4;3;Breadboard 170 Kontakte;100
+D15;2;3;Breadboard 400 Kontakte;200
+D25;4;3;Breadboard 830 Kontakte;300
+D18;1;4;USB A weiblich auf Schuko;100
+D31;5;4;USB micro männlich auf Schuko;350
+D36;3;4;5-Volt-Netzteil;450
+E11;2;5;Arduino Uno (kompatibel);650
+E13;2;5;LCD Keypad Shield;350
+E15;2;5;Ethernet Shield W5100 mit micro-SD-Slot;600
+E17;2;5;Motor Drive Shield;300
+E21;2;5;TI Launchpad MSP-EXP430G2-Starterpaket;1500
+E23;2;5;Proto Shield;400
+E26;1;5;Pro Micro;500
+E27;2;5;USB Host Shield;950
+E31;3;5;Arduino Mega 2560 R3 (kompatibel);900
+E35;2;6;RFID-Karte 125 kHz;50
+E37;2;6;USB-RFID-Reader 125 kHz;750
+F;1;0;WS2811 LED-Strip 12V, jeweils 3 adressierbar (Preis pro Meter);400
+x;;7;Widerstände zwischen 12 Ohm und 1 MOhm, E12;3
+z;;7;Widerstände kleiner gleich 10 Ohm;3
+y;;7;Sonstige Widerstände;3
+y;;11;Jumperkabel;1
+y;;12;Mini-Schalter;10
+y;;12;Piezo-Summer;50
+y;;10;Digitale Temperatursensoren DS18B20;30
+y;;10;Schieberegister 74HC164;50
+y;;8;Photowiderstände;4
+y;;7;Kondensatoren kleiner als 1000 uF;5
+y;;7;Kondensatoren 1000, 2200 uF;10
+y;;7;Kondensatoren 4700 uF;25
+y;;11;Stiftleisten;1
+y;;8;LEDs 3mm rot, gelb, grün;5
+y;;8;LEDs 5mm rot, gelb, grün;6
+y;;11;Jumper;1
+y;;8;LEDs 3mm IR;30
+y;;8;LEDs 3mm UV;140
+y;;8;LEDs 5mm blau ultrabright;25
+y;;8;LEDs 5mm weiß ultrabright;80
+y;;8;LEDs 5mm RGB superbright;250
+y;;7;Potentiometer;25
+y;;9;Transistoren npn/pnp;5
+z;;9;MOSFETs;10
+z;;9;Leistungs-MOSFETs;80
+z;;10;Port Expanders;150
+z;;10;OpAmps;20
+z;;10;NAND-Gatter;20
+z;;10;Timer;20
+z;;8;Dioden;2
+z;;8;Schottky-Dioden;15
+z;;8;Photodioden;40
+z;;12;Quarze;15
