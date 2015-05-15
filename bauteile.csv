@@ -50,19 +50,20 @@ E15;2;5;Ethernet Shield W5100 mit micro-SD-Slot;600
 E17;2;5;Motor Drive Shield;300
 E21;2;5;TI Launchpad MSP-EXP430G2-Starterpaket;1500
 E23;2;5;Proto Shield;400
-E26;1;5;Pro Micro;500
+E25;2;5;Arduino Nano (kompatibel);300
 E27;2;5;USB Host Shield;950
 E31;3;5;Arduino Mega 2560 R3 (kompatibel);900
+E34;1;5;Pro Micro;500
 E35;2;6;RFID-Karte 125 kHz;50
 E37;2;6;USB-RFID-Reader 125 kHz;750
 F;1;0;WS2811 LED-Strip 12V, jeweils 3 adressierbar (Preis pro Meter);400
 x;;7;Widerstände zwischen 12 Ohm und 1 MOhm, E12;3
 z;;7;Widerstände kleiner gleich 10 Ohm;3
 y;;7;Sonstige Widerstände;3
-y;;11;Jumperkabel;1
+y;;11;Jumperkabel;5
 y;;12;Mini-Schalter;10
 y;;12;Piezo-Summer;50
-y;;10;Digitale Temperatursensoren DS18B20;30
+y;;10;Digitale Temperatursensoren DS18B20;60
 y;;10;Schieberegister 74HC164;50
 y;;8;Photowiderstände;4
 y;;7;Kondensatoren kleiner als 1000 uF;5
