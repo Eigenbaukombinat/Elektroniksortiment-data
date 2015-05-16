@@ -44,7 +44,7 @@ D25;4;3;Breadboard 830 Kontakte;300
 D18;1;4;USB A weiblich auf Schuko;100
 D31;5;4;USB micro männlich auf Schuko;350
 D36;3;4;5-Volt-Netzteil;450
-E11;2;5;Arduino Uno (kompatibel);650
+E11;2;5;Arduino Uno (kompatibel);550
 E13;2;5;LCD Keypad Shield;350
 E15;2;5;Ethernet Shield W5100 mit micro-SD-Slot;600
 E17;2;5;Motor Drive Shield;300
