@@ -20,7 +20,7 @@ B14;4;1;USB A männlich auf B männlich;100
 B18;1;1;USB A männlich auf A weiblich;250
 B21;7;1;USB-Hub, 4 Ports;500
 B28;1;0;USB-Fin\-ger\-ab\-druck\-sen\-sor;1300
-B31;8;1;USB A männlich auf micro männlich;100
+B31;8;1;USB A männlich auf mini männlich;100
 B46;1;4;Akku 4400 mAh mit USB-Anschluss;1000
 C11;4;2;Raspberry Pi 1. Generation Model B;2500
 C15;2;2;Raspberry Pi 2. Generation Model B;4000
@@ -113,3 +113,4 @@ z;;8;Dioden;2
 z;;8;Schottky-Dioden;15
 z;;8;Photodioden;40
 z;;12;Quarze;15
+z;;10;Trennverstärker 74HC 4050;50
