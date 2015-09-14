@@ -1,29 +1,28 @@
-A11;1;0;Ultra\-schall\-modul HC-SR04;100
-A12;2;0;LCD-Modul 16x2 blauer Hintergrund, weiße Schrift HD44780;200
-A14;2;0;Lochrasterplatte;100
-A16;2;0;2,8 Zoll LCD;2000
-A18;1;0;Be\-schleu\-ni\-gungs\-sen\-sor MPU-6050;250
-A21;2;0;Schrittmotor + ULN2003 Driver-Board;200
-A23;1;0;5V DC-Motor;150
+A11;1;0;HC-SR04 Ultra\-schall\-modul;100
+A12;2;0;HD44780 LCD-Modul 16x2 blauer Hintergrund, weiße Schrift;200
+A14;2;0;Lochrasterplatte;50
+A16;2;0;2,8 Zoll LCD;900
+A18;1;0;MPU-6050 Be\-schleu\-ni\-gungs\-sen\-sor;250
+A21;2;0;Schrittmotor + ULN2003 Driver-Board;250
+A23;1;0;5V DC-Motor;200
 A24;1;0;HC-06 Bluetooth-Modul;350
-A25;2;6;MIFARE RC522 RFID Reader mit Tag und Karte;400
-A27;1;0;Uhrwerk;100
-A28;1;0;Barometer BMP180;200
+A25;2;6;MIFARE RC522 RFID Reader mit Tag und Karte;300
+A27;1;0;Uhrwerk;250
+A28;1;0;BMP180 Barometer;200
 A31;1;0;DS1307 Real-Time-Clock mit Lithium-Batterie;150
-A32;2;0;LCD-Modul 20x4 blauer Hintergrund, weiße Schrift HD44780;650
+A32;2;0;HD44780 LCD-Modul 20x4 blauer Hintergrund, weiße Schrift;600
 A34;2;0;Batteriehalter 3x AAA;100
 A36;1;0;Nokia-5110-Display mit Adapterplatine;250
 A37;2;0;HC-SR501 IR-Be\-we\-gungs\-mel\-der;150
 A41;1;0;KEYES IR-Fernbedienung mit Empfangsmodul;200
 B11;3;0;Playstation-Eye-Kamera;1100
-B14;4;1;USB A männlich auf B männlich;100
+B14;4;1;USB A männlich auf B männlich;50
 B18;1;1;USB A männlich auf A weiblich;250
 B21;7;1;USB-Hub, 4 Ports;500
 B28;1;0;USB-Fin\-ger\-ab\-druck\-sen\-sor;1300
-B31;8;1;USB A männlich auf mini männlich;100
+B31;8;1;USB A männlich auf micro männlich;100
 B46;1;4;Akku 4400 mAh mit USB-Anschluss;1000
-C11;4;2;Raspberry Pi 1. Generation Model B;2500
-C15;2;2;Raspberry Pi 2. Generation Model B;4000
+C15;2;2;Raspberry Pi 2. Generation Model B;3900
 C17;2;2;MEMS Sensor Evaluation Board;1600
 C21;1;2;Raspberry Pi Kameramodul;2550
 C22;1;2;Raspberry Pi Kameramodul NoIR;2750
@@ -33,11 +32,10 @@ C26;2;2;Gertduino;3100
 C28;1;2;Raspberry Pi Kühlkörper-Set;250
 C31;2;2;PiFace;3200
 C33;1;2;Flach\-band\-kabel für Raspberry Pi Kameramodul;550
-C34;1;2;4GB Class 6 SD-Karte;400
-C35;1;2;4GB Class 10 micro-SD-Karte;550
-C36;1;2;16GB Class 10 micro-SD-Karte;1100
-C37;1;2;Adapter micro-SD auf SD;100
-C38;1;2;WLAN-Adapter EDIMAX EW-7811UN;900
+C35;1;2;8GB Class 10 micro-SD-Karte;550
+C36;1;2;16GB Class 10 micro-SD-Karte;700
+C37;1;2;Adapter micro-SD auf SD;50
+C38;1;2;RTL8188CUS WLAN-Adapter (entspricht EDIMAX EW-7811UN);300
 C46;3;2;16x2 LCD Pi Plate Kit;1500
 D11;4;3;Breadboard 170 Kontakte;100
 D15;2;3;Breadboard 400 Kontakte;200
@@ -46,7 +44,7 @@ D18;1;5;Spark Core;3800
 D21;2;4;Akku 2600 mAh mit USB-Anschluss;450
 D23;1;4;USB A weiblich auf Schuko;100
 D24;1;5;LilyPad Arduino Simple (kompatibel);650
-D25;4;3;Breadboard 830 Kontakte;300
+D25;4;3;Breadboard 830 Kontakte;250
 D31;5;4;USB micro männlich auf Schuko;350
 D36;3;4;5-Volt-Netzteil;450
 D46;1;2;USB-Soundkarte;150
@@ -74,43 +72,47 @@ F21;1;0;XY-MK-5V 433 MHz RF-Empfänger;200
 F22;1;0;XY-FST 433 MHz RF-Sender;200
 F23;1;0;ADMP401 Analog-Mikrofon;500
 F24;1;0;A4988 Schrittmotor-Driver;600
-F25;1;0;Step-Up-/Down-Spannungsregler;600
+F25;1;0;Step-Up-/Down-Span\-nungs\-reg\-ler;600
 F26;1;0;I2C-Motor-Driver;1700
 F27;2;0;HG7881 2-Kanal-Motor-Driver;150
 F31;1;5;Teensy 3.0;1900
 F32;1;5;LilyPad Simple Power;1000
+F33;1;0;Peltier-Kühler;200
 P;1;0;WS2811 LED-Strip 12V, jeweils 3 adressierbar (Preis pro Meter);400
-x;;7;Widerstände zwischen 12 Ohm und 1 MOhm, E12;3
-z;;7;Widerstände kleiner gleich 10 Ohm;3
-y;;7;Sonstige Widerstände;3
+x;;7;Widerstand zwischen 12 Ohm und 1 MOhm, E12;3
+z;;7;Widerstand kleiner gleich 10 Ohm;3
+y;;7;Sonstiger Widerstand;3
 y;;11;Jumperkabel;5
-y;;12;Mini-Schalter;10
+y;;12;Mini-Schalter;4
 y;;12;Piezo-Summer;50
-y;;10;Digitale Temperatursensoren DS18B20;60
+y;;10;Digitaler Temperatursensor DS18B20;60
 y;;10;Schieberegister 74HC164;50
-y;;8;Photowiderstände;4
-y;;7;Kondensatoren kleiner als 1000 uF;5
-y;;7;Kondensatoren 1000, 2200 uF;10
-y;;7;Kondensatoren 4700 uF;25
-y;;11;Stiftleisten;1
-y;;8;LEDs 3mm rot, gelb, grün;5
-y;;8;LEDs 5mm rot, gelb, grün;6
+y;;8;Photowiderstand;4
+y;;7;Keramikkondensator;5
+y;;7;Elko kleiner als 1000 uF;5
+y;;7;Elko 1000, 2200 uF;10
+y;;7;Elko 4700 uF;25
+y;;11;Stiftleiste;1
+y;;8;LED 3mm rot, gelb, grün;3
+y;;8;LED 5mm rot, gelb, grün;5
 y;;11;Jumper;1
-y;;8;LEDs 3mm IR;30
-y;;8;LEDs 3mm UV;140
-y;;8;LEDs 5mm blau ultrabright;25
-y;;8;LEDs 5mm weiß ultrabright;80
-y;;8;LEDs 5mm RGB superbright;250
+y;;8;LED 3mm IR;5
+y;;8;LED 3mm UV;5
+y;;8;LED 5mm blau ultrabright;5
+y;;8;LED 5mm weiß ultrabright;5
+y;;8;LED 5mm RGB superbright;8
 y;;7;Potentiometer;25
-y;;9;Transistoren npn/pnp;5
-z;;9;MOSFETs;10
-z;;9;Leistungs-MOSFETs;80
-z;;10;Port Expanders;150
-z;;10;OpAmps;20
-z;;10;NAND-Gatter;20
-z;;10;Timer;20
-z;;8;Dioden;2
-z;;8;Schottky-Dioden;15
-z;;8;Photodioden;40
-z;;12;Quarze;15
-z;;10;Trennverstärker 74HC 4050;50
+y;;9;BC 547B npn-Transistor;5
+y;;9;BC 557B pnp-Transistor;5
+z;;9;BS 170 MOSFET;10
+z;;9;IRF 840 Leistungs-MOSFET;80
+z;;10;MCP 23017 Port Expander;150
+z;;10;MCP 23S17 Port Expander mit SPI-Schnittstelle;150
+z;;10;OpAmp;20
+z;;10;74HC 30 NAND-Gatter;20
+z;;10;NE 555 Timer;20
+z;;8;1N 4007 Gleichrichterdiode;2
+z;;8;1N 4148 Schaltdiode;2
+z;;8;BAT 48 Schottky-Diode;15
+z;;8;SFH 203 FA Photodiode;40
+z;;12;Quarz, 16 und 20 MHz;15
