@@ -9,7 +9,7 @@ A24;1;0;HC-06 Bluetooth-Modul;350
 A25;2;6;MIFARE RC522 RFID Reader mit Tag und Karte;300
 A27;1;0;Uhrwerk;250
 A28;1;0;BMP180 Barometer;200
-A31;1;0;DS1307 Real-Time-Clock mit Lithium-Batterie;150
+A31;1;0;DS1307 Real-Time-Clock mit Lithium-Batterie;200
 A32;2;0;HD44780 LCD-Modul 20x4 blauer Hintergrund, weiße Schrift;600
 A34;2;0;Batteriehalter 3x AAA;100
 A36;1;0;Nokia-5110-Display mit Adapterplatine;250
