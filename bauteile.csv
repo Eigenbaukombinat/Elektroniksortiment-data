@@ -108,7 +108,7 @@ z;;9;BS 170 MOSFET;10
 z;;9;IRF 840 Leistungs-MOSFET;80
 z;;10;MCP 23017 Port Expander;150
 z;;10;MCP 23S17 Port Expander mit SPI-Schnittstelle;150
-z;;10;OpAmp;20
+z;;10;LM 358 OpAmp;20
 z;;10;74HC 30 NAND-Gatter;20
 z;;10;NE 555 Timer;20
 z;;8;1N 4007 Gleichrichterdiode;2
