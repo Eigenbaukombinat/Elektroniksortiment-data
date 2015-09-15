@@ -85,8 +85,8 @@ y;;7;Sonstiger Widerstand;3
 y;;11;Jumperkabel;5
 y;;12;Mini-Schalter;4
 y;;12;Piezo-Summer;50
-y;;10;Digitaler Temperatursensor DS18B20;60
-y;;10;Schieberegister 74HC164;50
+y;;10;DS18B20 Digitaler Temperatursensor;60
+y;;10;74HC164 Schieberegister;50
 y;;8;Photowiderstand;4
 y;;7;Keramikkondensator;5
 y;;7;Elko kleiner als 1000 uF;5
