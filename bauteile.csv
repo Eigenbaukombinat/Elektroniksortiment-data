@@ -20,7 +20,8 @@ B14;4;1;USB A männlich auf B männlich;50
 B18;1;1;USB A männlich auf A weiblich;250
 B21;7;1;USB-Hub, 4 Ports;500
 B28;1;0;USB-Fin\-ger\-ab\-druck\-sen\-sor;1300
-B31;8;1;USB A männlich auf micro männlich;100
+B31;4;1;USB A männlich auf mini männlich;100
+B35;4;1;USB A männlich auf micro männlich;100
 B46;1;4;Akku 4400 mAh mit USB-Anschluss;1000
 C15;2;2;Raspberry Pi 2. Generation Model B;3900
 C17;2;2;MEMS Sensor Evaluation Board;1600
@@ -33,7 +34,7 @@ C28;1;2;Raspberry Pi Kühlkörper-Set;100
 C31;2;2;PiFace;3200
 C33;1;2;Flach\-band\-kabel für Raspberry Pi Kameramodul;550
 C35;1;2;8GB Class 10 micro-SD-Karte;550
-C36;1;2;16GB Class 10 micro-SD-Karte;700
+C36;1;2;16GB Class 10 micro-SD-Karte;600
 C37;1;2;Adapter micro-SD auf SD;50
 C38;1;2;RTL8188CUS WLAN-Adapter (entspricht EDIMAX EW-7811UN);300
 C46;3;2;16x2 LCD Pi Plate Kit;1500
