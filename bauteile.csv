@@ -115,4 +115,5 @@ z;;8;1N 4007 Gleichrichterdiode;2
 z;;8;1N 4148 Schaltdiode;2
 z;;8;BAT 48 Schottky-Diode;15
 z;;8;SFH 203 FA Photodiode;40
-z;;12;Quarz, 16 und 20 MHz;15
+z;;12;HC-49U Quarz, 16 und 20 MHz;15
+z;;8;TSOP4838 IR-Empfänger;50
