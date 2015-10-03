@@ -23,6 +23,7 @@ B28;1;0;USB-Fin\-ger\-ab\-druck\-sen\-sor;1300
 B31;4;1;USB A männlich auf mini männlich;100
 B35;4;1;USB A männlich auf micro männlich;100
 B46;1;4;Akku 4400 mAh mit USB-Anschluss;1000
+C11;4;12;DAGU Gear Motor;300
 C15;2;2;Raspberry Pi 2. Generation Model B;3900
 C17;2;2;MEMS Sensor Evaluation Board;1600
 C21;1;2;Raspberry Pi Kameramodul;2550
@@ -55,7 +56,8 @@ E17;2;5;Motor Drive Shield;300
 E21;2;5;TI Launchpad MSP-EXP430G2-Starterpaket;1500
 E23;2;5;Proto Shield;400
 E25;2;5;Arduino Nano (kompatibel);300
-E27;2;5;USB Host Shield;950
+E27;1;5;LilyPad Simple Power;1000
+E28;1;0;Peltier-Kühler;200
 E31;3;5;Arduino Mega 2560 R3 (kompatibel);900
 E34;1;5;Pro Micro;500
 E35;2;6;RFID-Karte 125 kHz;50
@@ -76,15 +78,14 @@ F25;1;0;Step-Up-/Down-Span\-nungs\-reg\-ler;600
 F26;1;0;I2C-Motor-Driver;1700
 F27;2;0;HG7881 2-Kanal-Motor-Driver;150
 F31;1;5;Teensy 3.0;1900
-F32;1;5;LilyPad Simple Power;1000
-F33;1;0;Peltier-Kühler;200
+F32;7;12;65mm-Rad;200
 P;1;0;WS2811 LED-Strip 12V, jeweils 3 adressierbar (Preis pro Meter);400
 x;;7;Widerstand zwischen 12 Ohm und 1 MOhm, E12;3
 z;;7;Widerstand kleiner gleich 10 Ohm;3
 y;;7;Sonstiger Widerstand;3
 y;;11;Jumperkabel;5
-y;;12;Mini-Schalter;4
-y;;12;Piezo-Summer;50
+y;;13;Mini-Schalter;4
+y;;13;Piezo-Summer;50
 y;;10;DS18B20 Digitaler Temperatursensor;60
 y;;10;74HC164 Schieberegister;50
 y;;8;Photowiderstand;4
@@ -115,5 +116,5 @@ z;;8;1N 4007 Gleichrichterdiode;2
 z;;8;1N 4148 Schaltdiode;2
 z;;8;BAT 48 Schottky-Diode;15
 z;;8;SFH 203 FA Photodiode;40
-z;;12;HC-49U Quarz, 16 und 20 MHz;15
+z;;13;HC-49U Quarz, 16 und 20 MHz;15
 z;;8;TSOP4838 IR-Empfänger;50
