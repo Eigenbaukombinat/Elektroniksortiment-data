@@ -12,7 +12,7 @@ A28;1;0;BMP180 Barometer;200
 A31;1;0;DS1307 Real-Time-Clock mit Lithium-Batterie;200
 A32;2;0;HD44780 LCD-Modul 20x4 blauer Hintergrund, weiße Schrift;600
 A34;2;0;Batteriehalter 4x AAA;100
-A36;1;0;Nokia-5110-Display mit Adapterplatine;250
+A36;1;0;Nokia-5110-Display mit Adapterplatine;300
 A37;2;0;HC-SR501 IR-Be\-we\-gungs\-mel\-der;150
 A41;1;0;KEYES IR-Fernbedienung mit Empfangsmodul;200
 B11;3;0;Playstation-Eye-Kamera;1100
