@@ -94,7 +94,7 @@ y;;8;LED 3mm rot, gelb, grün;3
 y;;8;LED 5mm rot, gelb, grün;5
 y;;11;Jumper;1
 y;;8;LED 3mm IR, UV;5
-y;;8;LED 3mm blau, weiß;5
+y;;8;LED 5mm blau, weiß;5
 y;;8;LED 5mm RGB;8
 y;;7;Potentiometer 100 kOhm bis 1MOhm;25
 y;;9;BC 547B npn-Transistor;5
