@@ -16,9 +16,9 @@ A36;1;0;Nokia-5110-Display mit Adapterplatine;300
 A37;2;0;HC-SR501 IR-Be\-we\-gungs\-mel\-der;150
 A41;1;0;KEYES IR-Fernbedienung mit Empfangsmodul;200
 B11;3;0;Playstation-Eye-Kamera;1100
-B14;4;1;USB A männlich auf B männlich;50
+B14;4;1;USB-Hub, 4 Ports;500
 B18;1;1;USB A männlich auf A weiblich;250
-B21;7;1;USB-Hub, 4 Ports;500
+B21;7;1;USB A männlich auf B männlich;50
 B28;1;0;USB-Fin\-ger\-ab\-druck\-sen\-sor;1300
 B31;4;1;USB A männlich auf mini männlich;100
 B35;4;1;USB A männlich auf micro männlich;100
@@ -49,8 +49,7 @@ D25;4;3;Breadboard 830 Kontakte;250
 D31;5;4;USB micro männlich auf Schuko;350
 D36;3;4;5-Volt-Netzteil;450
 D46;1;2;USB-Soundkarte;150
-E11;2;5;Arduino Uno (kompatibel);550
-E13;2;5;LCD Keypad Shield;350
+E11;4;5;LCD Keypad Shield;350
 E15;2;5;Ethernet Shield W5100 mit micro-SD-Slot;600
 E17;2;5;Motor Drive Shield;300
 E21;2;5;TI Launchpad MSP-EXP430G2-Starterpaket;1500
@@ -64,11 +63,7 @@ E35;2;6;RFID-Karte 125 kHz;50
 E37;2;6;USB-RFID-Reader 125 kHz;750
 E46;1;0;SPI-MicroSD-Adapter;600
 F11;1;0;AM2302 Temperatur- und Feuchtigkeitssensor;300
-F12;2;0;Antenne;200
-F14;1;0;PCA9685 PWM/Servo-Driver;650
-F15;1;0;MCP4725 Digital-Analog-Konverter;350
-F16;1;0;VCNL4000 Entfernungssensor;1200
-F17;1;0;ADS1115 I2C-Analog-Digital-Konverter;600
+F12;6;5;Arduino Uno (kompatibel);550
 F18;1;0;SCC3733 Solarzelle;750
 F21;1;0;XY-MK-5V 433 MHz RF-Empfänger;200
 F22;1;0;XY-FST 433 MHz RF-Sender;200
@@ -79,14 +74,15 @@ F26;1;0;I2C-Motor-Driver;1700
 F27;2;0;HG7881 2-Kanal-Motor-Driver;150
 F31;1;5;Teensy 3.0;1900
 F32;7;12;65mm-Rad;200
+F46;1;0;PCA9685 PWM/Servo-Driver;650
 P;1;0;WS2811 LED-Strip 12V, jeweils 3 adressierbar (Preis pro Meter);400
 x;;7;Widerstand zwischen 12 Ohm und 1 MOhm, E12;3
 z;;7;Widerstand kleiner gleich 10 Ohm;3
 y;;7;Sonstiger Widerstand;3
-y;;11;Jumperkabel;5
-y;;13;Mini-Schalter;4
-y;;13;Piezo-Summer;50
-y;;10;DS18B20 Digitaler Temperatursensor;60
+y;;11;10cm, 20cm, 30cm Jumperkabel m/m, m/w, w/w;5
+z;;13;Mini-Schalter;4
+z;;13;Piezo-Summer;50
+z;;10;DS18B20 Digitaler Temperatursensor;60
 y;;10;74HC164 Schieberegister;50
 y;;8;Photowiderstand;4
 y;;7;Keramikkondensator;5
@@ -97,12 +93,10 @@ y;;11;Stiftleiste;1
 y;;8;LED 3mm rot, gelb, grün;3
 y;;8;LED 5mm rot, gelb, grün;5
 y;;11;Jumper;1
-y;;8;LED 3mm IR;5
-y;;8;LED 3mm UV;5
-y;;8;LED 5mm blau ultrabright;5
-y;;8;LED 5mm weiß ultrabright;5
-y;;8;LED 5mm RGB superbright;8
-y;;7;Potentiometer;25
+y;;8;LED 3mm IR, UV;5
+y;;8;LED 3mm blau, weiß;5
+y;;8;LED 5mm RGB;8
+y;;7;Potentiometer 100 kOhm bis 1MOhm;25
 y;;9;BC 547B npn-Transistor;5
 y;;9;BC 557B pnp-Transistor;5
 z;;9;BS 170 MOSFET;10
