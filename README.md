@@ -16,3 +16,8 @@ Daten für das Elektroniksortiment
 * Kategorie
 * Bezeichnung
 * Preis in Cent
+
+## Scripte
+
+Unter scripts/ befindet sich ein Python-Skript, mit dem die
+Kastenlayouts gezeichnet werden können.
