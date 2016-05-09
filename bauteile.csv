@@ -112,4 +112,6 @@ z;;8;BAT 48 Schottky-Diode;15
 z;;8;SFH 203 FA Photodiode;40
 z;;13;HC-49U Quarz, 16 und 20 MHz;15
 z;;18;2N 2222 A; 45
+z;;31;Alkalinebatterie AAA; 35
+z;;24;Alkalinebatterie AA; 40
 z;;8;TSOP4838 IR-Empfänger;50
