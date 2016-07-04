@@ -99,8 +99,8 @@ y;;8;LED 5mm RGB;8
 y;;7;Potentiometer 100 kOhm bis 1MOhm;25
 y;;9;BC 547B npn-Transistor;5
 y;;9;BC 557B pnp-Transistor;5
-z;;9;BS 170 MOSFET;10
-z;;9;IRF 840 Leistungs-MOSFET;80
+z;;8;BS 170 MOSFET;10
+z;;7;IRF 840 Leistungs-MOSFET;80
 z;;10;MCP 23017 Port Expander;150
 z;;10;MCP 23S17 Port Expander mit SPI-Schnittstelle;150
 z;;10;LM 358 OpAmp;20
